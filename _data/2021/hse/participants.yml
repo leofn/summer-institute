@@ -46,7 +46,7 @@
 - name: Nora Kirkizh
   image: /assets/images/Kirkizh.jpeg
   bio: "Nora Kirkizh is a doctoral researcher at GESIS, Department of Computational Social Science and a PhD student at TU Munich, Chair of Computational Social Science and Big Data. Her interests include political behavior, experiments and computational methods. Nora uses digital trace data to study peoples' political attitudes, polarization, and media diets."
-  website: norakirkizh.github.io
+  website: https://norakirkizh.github.io/
 
 - name: Hanna Marhunova
   image: /assets/images/Marhunova.jpg
@@ -62,11 +62,6 @@
   image: /assets/images/Osmanov.jpg
   bio: "Timur Osmanov is a lecturer at the Higher School of Economics and the Moscow School of Economics and Economics. He is developing a methodology for sociological research in the Public Opinion Foundation (Moscow). His research interests include methodology for constructing samples for surveys, telephone survey methodology, combining survey data with big data."
   website: https://www.linkedin.com/in/timur-osmanov/
-
-- name: Vasiliy Pisarevskiy
-  image: /assets/images/Pisarevskiy.JPG
-  bio: "I have been working as a research associate at Saint Tichon Orthodox University since 2007. My major research fields are: Orthodox online communities in social networks (I defended my dissertation on this topic in 2016) and social practices of Orthodox parishes in Russia and abroad (8 countries)."
-  website: 
 
 - name: Yuri Rykov
   image: /assets/images/Rykov.jpg
@@ -86,12 +81,12 @@
 - name: Angelika Tsivinskaya
   image: /assets/images/Tsivinskaya.jpg
   bio: "Angelika Tsivinskaya is a junior researcher in Center for Institutional Analysis of Science & Education, European University at Saint Petersburg (Russia). Her research interest lies at areas such as statistical analysis, science of science and CSS with focus on Higher education institutions."
-  website: https://scholar.google.com/citations?user=UbwVuqIAAAAJ&hl=en#
+  website: https://scholar.google.com/citations?user=wmweRYkAAAAJ&hl=en
 
 - name: Olga Vilkova
   image: /assets/images/Vilkova.jpg
   bio: "Olga Vilkova is currently pursuing a PhD in Economic Sociology at Higher School of Economics, Russia. Her research interests lie in the field of inequality and professional success on online labor markets. Her studies are based on mixed approach where conventional sociological methods are balanced with computational techniques (web-scraping)."
-  website: Linkedin.com/pub/olga-vilkova/98/602/329
+  website: http://linkedin.com/pub/olga-vilkova/98/602/329
 
 - name: Nan Zhang
   image: /assets/images/NanZhang.jpg

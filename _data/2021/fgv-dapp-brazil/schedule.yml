@@ -7,10 +7,11 @@
     - name: "11:00 - 12:00 Small group discussions [Lesson Instructions](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/small_group_discussions.md)"
     - name: "12:00 - 12:30 Break"
     - name: "12:30 - 1:30 Small group lunches (optional)"
-    - name: "1:30 - 1:45 Introduction to the group exercise  [Lesson Instructions](https://docs.google.com/document/d/1cES1QVfAzEk90J6l__Uf26RGHHyL5VmJ5EZJGsBs_jw/edit)"
-    - name: "1:45 - 2:45 Small group discussion of [case study](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf)"
-    - name: "2:45 - 3:15 Whole group debrief about case study (*Zoom*)"
-    - name: "3:15 - 3:45 Break"
+    - name: "1:30 - 1:45 Break"
+    - name: "1:45 - 2:00 Introduction to the group exercise  [Lesson Instructions](https://docs.google.com/document/d/1cES1QVfAzEk90J6l__Uf26RGHHyL5VmJ5EZJGsBs_jw/edit)"
+    - name: "2:00 - 3:00 Small group discussion of [case study](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf)"
+    - name: "3:00 - 3:30 Whole group debrief about case study (*Zoom*)"
+    - name: "3:30 - 4:00 Break"
     - name: "4:00 - 5:00 Workshop: Algorithm Accountability, **Daniel Trielli** (Northwestern University and SICSS-Chicago)."
 
 - date: 2021-06-15
@@ -25,7 +26,7 @@
     - name: "2:30 - 3:30 Discussing Strengths & Benefits plus Hybrid Designs (Everybody)"
     - name: "3:30 - 3:45 Debrief and logistics"
     - name: "3:45 - 4:00 Break"
-    - name: "4:00 - 4:45 GUEST-SPEAKER: **Patrícia Rossini**: Politics, Social Media, and Uncivility"
+    - name: "4:00 - 4:45 GUEST-SPEAKER: **Patrícia Rossini**:Rethinking Online Toxicity: Conceptual and Methodological Advantages of Disentangling Uncivil and Intolerant Discourse"
 
 - date: 2021-06-16
   name: Automated Text Analysis
@@ -48,8 +49,7 @@
     - name: "12:30 - 1:30 Small group lunches (optional) (*Zoom*)"
     - name: "1:30 - 1:45 Break"
     - name: "1:45 - 3:00 Afternoon group exercise (*Zoom*)"
-    - name: "3:00 - 3:15 Break"
-    - name: "3:15 - 3:30 Whole group debrief about group exercise (*Zoom*)"
+    - name: "3:00 - 3:30 Whole group debrief about group exercise (*Zoom*)"
     - name: "3:30 - 3:45 Debrief and logistics (*Zoom*)"
     - name: "4:00 - 4:45 GUEST-SPEAKER: **Cezar Zucco**:  Conducting Digital and Survey Experiments in Brazil" 
 
@@ -84,13 +84,13 @@
     - name: "1:30 - 3:00 - Implementação de Metodologia Linguística, Lucas Roberto e Polyana"
     - name: "3:00 - 3:30 - FGV DAPP Call for Proposals"
     - name: "3:30 - 4:00 Break"
-    - name: "4:00 - 4:45 - WORKSHOP: **Ricardo Dahis** - A Base dos Dados"
+    - name: "4:00 - 4:45 - WORKSHOP: **Fernanda Scovino** - A Base dos Dados"
   
 - date: 2021-06-22
  
   name: Research Speed Dating
   events:
-    - name: "10:00 - 10:30 Research Speed Dating Logistics (*Zoom*), [Slides for Instructors] (link coming soon)"
+    - name: "10:00 - 10:30 Research Speed Dating Logistics (*Zoom*), [Slides for Instructors](https://tiagoventura.github.io/sicss_presentation/slides-research-speed-dating#1)"
     - name: "10:30 - 11:30 Research Speed Dating Maximally Similar Groups (*Zoom*)"
     - name: "11:30 - 12:00 Presenting Research Ideas (Everybody)"
     - name: "12:00 - 1:00 Small group lunches (optional) (*Zoom*)"
@@ -103,12 +103,12 @@
 - date: 2021-06-23
   name: Roundtable and Work on group projects (optional)
   events: 
-    - name: "Roundtable: 10:00 - 12:00: Computational Social Science in the Academia - With Ernesto Calvo (ilCSS-UMD), Rochelle Terman (UChicago), and Marco Aurélio Ruediger(FGV-DAPP)"
+    - name: "Roundtable: 10:00 - 12:00: Computational Social Science in the Academia - With Ernesto Calvo (ilCSS-UMD), and Rochelle Terman (UChicago)"
 
 - date: 2021-06-24
   name: Roundtable and Work on group projects (optional)
   events:
-    - name: "10:00 - 12:00 - Roundtable:  Computational Social Science and the Industry - With Daniel Mariani (Folha de Sao Paulo), Vera Cabral (Education Director, Microsoft Brasil), and Marcelo Soares (Lagom Data)"
+    - name: "10:00 - 12:00 - Roundtable:  Computational Social Science and the Industry - With Daniel Mariani (Folha de Sao Paulo), and Henrique Lorea (PicPay)"
  
     
 - date: 2021-06-25
